@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>Changelog</title>
+      <link>http://адрес/app.xml</link>
+      <description>Changelog</description>
+      <language>en</language>
+         <item>
+            <title>Version *тут версия:)*</title>
+<sparkle:releaseNotesLink>http://адрес/rnotes.html</sparkle:releaseNotesLink>
+            <pubDate>Пт, 13 Май 2011 160:15:08 +0000</pubDate>
+            <enclosure url="http://адрес/update.zip" sparkle:version="Версия сборки" sparkle:shortVersionString="Версия аппа" length="как я понял тут вес(в байтах)" type="application/octet-stream" sparkle:dsaSignature="тут ключ"/>
+         </item>
+   </channel>
+</rss>
