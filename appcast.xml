@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
-   <channel>
-      <title>Changelog</title>
-      <link>http://адрес/app.xml</link>
-      <description>Changelog</description>
-      <language>en</language>
-         <item>
-            <title>Version *тут версия:)*</title>
-<sparkle:releaseNotesLink>http://адрес/rnotes.html</sparkle:releaseNotesLink>
-            <pubDate>Пт, 13 Май 2011 160:15:08 +0000</pubDate>
-            <enclosure url="http://адрес/update.zip" sparkle:version="Версия сборки" sparkle:shortVersionString="Версия аппа" length="как я понял тут вес(в байтах)" type="application/octet-stream" sparkle:dsaSignature="тут ключ"/>
-         </item>
-   </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TestSparkle</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>вт, 12 нояб. 2019 09:55:00 +0200</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/paganel/app_updates/blob/master/TestSparkle.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="1770765" type="application/octet-stream" sparkle:edSignature="WkqT8WHXfb6rNDJslJFLRMs2RfEhPp05Uk/zK2COsjvnXhCCHtfWIP5yyAqD02sZjjZ0/aKHnuaZlu3Q6+mVDw=="/>
+        </item>
+    </channel>
 </rss>
