@@ -4,9 +4,9 @@
         <title>TestSparkle</title>
         <item>
             <title>1.0</title>
-            <pubDate>вт, 12 нояб. 2019 09:55:00 +0200</pubDate>
+            <pubDate>вт, 12 нояб. 2019 11:28:34 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/paganel/app_updates/archive/1.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="1770765" type="application/octet-stream" sparkle:edSignature="WkqT8WHXfb6rNDJslJFLRMs2RfEhPp05Uk/zK2COsjvnXhCCHtfWIP5yyAqD02sZjjZ0/aKHnuaZlu3Q6+mVDw=="/>
+            <enclosure url="https://github.com/paganel/app_updates/blob/master/TestSparkle.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="6729701" type="application/octet-stream" sparkle:edSignature="KgkMjNOqrQH25LCibpqGuN13pTGAk9UimK6nNCXTxtz5K2awCSZYRwyELUcq3lvJaPmCvx5j56+2DCmf2vHXBw=="/>
         </item>
     </channel>
 </rss>
