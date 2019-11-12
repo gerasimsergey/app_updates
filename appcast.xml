@@ -1,12 +1,13 @@
-<?xml version="1.0" standalone="yes"?>
+ <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>TestSparkle</title>
         <item>
             <title>1.0</title>
-            <pubDate>вт, 12 нояб. 2019 11:28:34 +0200</pubDate>
+            <pubDate>вт, 12 нояб. 2019 11:44:45 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/paganel/app_updates/blob/master/TestSparkle.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="6729701" type="application/octet-stream" sparkle:edSignature="KgkMjNOqrQH25LCibpqGuN13pTGAk9UimK6nNCXTxtz5K2awCSZYRwyELUcq3lvJaPmCvx5j56+2DCmf2vHXBw=="/>
+            <sparkle:releaseNotesLink>https://github.com/paganel/app_updates/blob/master/TestSparkle.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/paganel/app_updates/blob/master/TestSparkle.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="6729694" type="application/octet-stream" sparkle:edSignature="b+q6AhRTylNaCL9jhkFM4A6NGgHnjFgM06bXtyUqBpT2Rs69vO6gaO2GU+AP1sA4HqbKYXg9sHKuaBIUSGjPCg=="/>
         </item>
     </channel>
 </rss>
