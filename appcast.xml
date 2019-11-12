@@ -7,7 +7,7 @@
             <pubDate>вт, 12 нояб. 2019 11:44:45 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://github.com/paganel/app_updates/blob/master/TestSparkle.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/paganel/app_updates/blob/master/TestSparkle.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="6729694" type="application/octet-stream" sparkle:edSignature="b+q6AhRTylNaCL9jhkFM4A6NGgHnjFgM06bXtyUqBpT2Rs69vO6gaO2GU+AP1sA4HqbKYXg9sHKuaBIUSGjPCg=="/>
+            <enclosure url="https://paganel.github.io/app_updates/TestSparkle.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="6729694" type="application/octet-stream" sparkle:edSignature="b+q6AhRTylNaCL9jhkFM4A6NGgHnjFgM06bXtyUqBpT2Rs69vO6gaO2GU+AP1sA4HqbKYXg9sHKuaBIUSGjPCg=="/>
         </item>
     </channel>
 </rss>
